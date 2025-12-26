@@ -1,4 +1,4 @@
-##Frontend Authentication UI (Login & Signup)
+##Frontend Authentication UI (Login & Signup)##
 
 A responsive frontend authentication interface built using React and Tailwind CSS v4, featuring login and signup pages with proper form validations and modern UI practices.
 
