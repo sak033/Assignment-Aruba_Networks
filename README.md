@@ -1,17 +1,17 @@
-##Frontend Authentication UI (Login & Signup)
+# Frontend Authentication UI (Login & Signup)
 
 A responsive frontend authentication interface built using React and Tailwind CSS v4, featuring login and signup pages with proper form validations and modern UI practices.
 
 ---
 
-##Live Demo
+## Live Demo
 
 🔗 Deployed on Netlify:
 https://assingmentarubanetworks.netlify.app
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 React (Vite)
 
@@ -20,8 +20,9 @@ Tailwind CSS v4
 React Router DOM
 
 React Hot Toast
+---
 
-##Features
+## Features
 
 Login page with email and password validation
 
@@ -34,14 +35,16 @@ Mobile-first, fully responsive UI
 Clean and reusable React components
 
 Client-side routing using React Router
+---
 
-##Pages
+## Pages
 
 /login – User login with validations
 
 /signup – User registration with validations
+---
 
-##Validations Implemented
+## Validations Implemented
 
 Email format validation
 
@@ -50,21 +53,25 @@ Password minimum length validation
 Phone number (10-digit numeric) validation
 
 Required field checks
+---
 
-##Installation & Setup (Local)
+## Installation & Setup (Local)
 git clone <your-repo-url>
 cd frontend
 npm install
 npm run dev
+---
 
-##Build for Production
+## Build for Production
 npm run build
+---
 
-##Deployment
+## Deployment
 
 The project is deployed using Netlify by uploading the production dist folder generated via Vite build.
+---
 
-##Author
+## Author
 
 Sakshi Kuthe
 Frontend / MERN Stack Developer
