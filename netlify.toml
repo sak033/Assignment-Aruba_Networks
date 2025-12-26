@@ -3,6 +3,9 @@
   command = "npm run build"
   publish = "frontend/dist"
 
+[build.environment]
+  TAILWIND_DISABLE_LIGHTNINGCSS = "1"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
